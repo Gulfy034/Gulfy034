@@ -24,7 +24,9 @@ A embedded-development enthusiast. 🧰 | [![酷安](https://img.shields.io/badg
 
 2. PREPARING🌱 : the animation-series that what's called 「the Thirteen Prismirrors」 / 「拾叁镜」
 
-3. DOING🐙 : building the blog website deploied on [github.io](https://gulfieen.github.io/) & [cnblog.cn](https://www.cnblogs.com/gulfieen-n0rris)
+3. DOING🐙 : building the personal blog website deploied on [cnblog.cn](https://www.cnblogs.com/gulfieen-n0rris)
+
+4. AWAITED🪣 : the game's offical website project need to be built soon...
 
 ---------------
 
