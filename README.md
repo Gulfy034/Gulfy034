@@ -24,7 +24,7 @@ A embedded-development enthusiast. 🧰 | [![酷安](https://img.shields.io/badg
 
 2. PREPARING🌱 : the animation-series that what's called 「the Thirteen Prismirrors」 / 「拾叁镜」
 
-3. DOING🐙 : building the blog website deploied on [github.io](https://gulfieen.github.io/) & cnblog.cn[^2]
+3. DOING🐙 : building the blog website deploied on [github.io](https://gulfieen.github.io/) & [cnblog.cn](https://www.cnblogs.com/gulfieen-n0rris)
 
 ---------------
 
@@ -36,4 +36,3 @@ A embedded-development enthusiast. 🧰 | [![酷安](https://img.shields.io/badg
 
 ---------------
 [^1]: also in [itch.io](https://gulfy-n0rris.itch.io/skya-project-demo)
-[^2]: not started in cnblog.cn
