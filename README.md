@@ -26,7 +26,7 @@ A embedded-development enthusiast. 🧰 | [![酷安](https://img.shields.io/badg
 
 3. DOING🐙 : building the personal blog website deploied on [cnblog.cn](https://www.cnblogs.com/gulfieen-n0rris)
 
-4. AWAITED🪣 : the game's offical website project need to be built soon...
+4. HURRY-DOING😫 : the game's offical website project is building! See [here](https://skya-project.website)!
 
 ---------------
 
