@@ -29,9 +29,11 @@
 
 ## --something -else 👁️‍🗨️
 
-1. Blog🐙 : my [cnblog](https://www.cnblogs.com/gulfieen-n0rris) here
+1. Blog🐙 : my [cnblog](https://www.cnblogs.com/gulfieen-n0rris)
 
-2. Model🫠 : take my model for free, at [sketchfab](https://sketchfab.com/Gulfieen) | [模之屋 aplaybox](https://www.aplaybox.com/u/317911207) 
+2. Model🫠 : take my models for free, at [sketchfab](https://sketchfab.com/Gulfieen) | [模之屋 aplaybox](https://www.aplaybox.com/u/317911207)
+
+3. ShaderToy👻 : [Gulfi33n](https://www.shadertoy.com/user/Gulfi33n)
 
 ---------------
 
