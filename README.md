@@ -19,7 +19,7 @@
 
 ## --projects-doing 📂 `nul> 3>nul`
 
-1. Gamedev📌:  the game project called "SKYA_Project" & its [DEMO](https://github.com/Gulfy034/SKYA_Project_DEMO)[^1] 
+1. Gamedev📌:  the game project called "SKYA_Project" & its [DEMO](https://github.com/Gulfy034/SKYA_Project_DEMO)
 
 2. AnimationProject🌱 : the animation-series that what's called 「the Thirteen Prismirrors」 / 「拾叁镜」
 
@@ -37,8 +37,8 @@
 
 3. ShaderToy👻 : [Gulfi33n](https://www.shadertoy.com/user/Gulfi33n)
 
+4. Gamedev: [Gamejolt Gulfieen-N0rris](https://gamejolt.com/@Gulfieen-N0rris) | [itch.io gulfieen-n0rris](https://gulfy-n0rris.itch.io/) | [indienova Gulfieen蛤蟆先生](https://indienova.com/u/mHEhifdlS464uFlV)
+
+5. Assets: [Godot Assets](https://godotengine.org/asset-library/asset?user=Gulfieen)
+
 <img align="right" src="https://github-readme-stats-ashy-iota-35.vercel.app/api?username=Gulfy034&show_icons=true&theme=dark" />
-
----------------
-
-[^1]: also in [itch.io](https://gulfy-n0rris.itch.io/skya-project-demo)
