@@ -39,4 +39,6 @@
 
 5. Assets: [Godot Assets](https://godotengine.org/asset-library/asset?user=Gulfieen)
 
+6. Arts/Drafts: [Pixiv](https://www.pixiv.net/users/66131282)
+
 <img align="right" src="https://github-readme-stats-ashy-iota-35.vercel.app/api?username=Gulfy034&show_icons=true&theme=dark" />
